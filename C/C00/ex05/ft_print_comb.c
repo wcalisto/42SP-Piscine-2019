@@ -32,10 +32,13 @@ void	ft_print_comb(void)
 			c = '0';
 			while (c <= '9')
 			{
-				ft_putchar(a);
-				ft_putchar(b);
-				ft_putchar(c);
-				ft_putchar(' ');
+				if (a != b && b != c && c != a)
+				{
+					ft_putchar(a);
+					ft_putchar(b);
+					ft_putchar(c);
+					ft_putchar(' ');
+				}
 				c++;
 			}
 			b++;
