@@ -12,5 +12,8 @@
 /* ************************************************************************** */
 </pre>
 
-# 42 Săo Paulo 
+# 42 Sao Paulo 
 Piscine 2019
+
+  [SHELL](https://github.com/wcalisto/42SP-Piscine-2019/tree/master/Shell)
+  [C00](https://github.com/wcalisto/42SP-Piscine-2019/tree/master/C00)
