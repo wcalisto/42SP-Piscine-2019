@@ -14,9 +14,11 @@
 
 # 42 Sao Paulo 
 Piscine 2019
-|
-|--[SHELL](https://github.com/wcalisto/42SP-Piscine-2019/tree/master/Shell)</br>
-|  |-[S00](https://github.com/wcalisto/42SP-Piscine-2019/tree/master/Shell/S00)</br>
-|  |-[S01](https://github.com/wcalisto/42SP-Piscine-2019/tree/master/Shell/S01)</br>
-| </br>
-|--[C00](https://github.com/wcalisto/42SP-Piscine-2019/tree/master/C)
+</br>
+- [SHELL](https://github.com/wcalisto/42SP-Piscine-2019/tree/master/Shell)</br>
+  - [S00](https://github.com/wcalisto/42SP-Piscine-2019/tree/master/Shell/S00)</br>
+  - [S01](https://github.com/wcalisto/42SP-Piscine-2019/tree/master/Shell/S01)</br>
+</br>
+</br>
+- [C](https://github.com/wcalisto/42SP-Piscine-2019/tree/master/C)</br>
+  - [C00](https://github.com/wcalisto/42SP-Piscine-2019/tree/master/C/C00)</br>
